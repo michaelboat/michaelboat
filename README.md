@@ -24,7 +24,7 @@
 
 My name's Michael. Currently studying Computer Science at Colgate University.
 
-I love all things sofware development, with a particular fascination with language. I'm a firm believer in continuous learning and striving to improve one's self.
+I love all things software development, and particularly fascinated with language. I'm a firm believer in continuous learning and striving to improve oneself.
 
 
 
